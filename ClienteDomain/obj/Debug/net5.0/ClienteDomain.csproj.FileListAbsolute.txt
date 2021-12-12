@@ -1,0 +1,12 @@
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\bin\Debug\net5.0\ClienteDomain.deps.json
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\bin\Debug\net5.0\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\bin\Debug\net5.0\ref\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\bin\Debug\net5.0\ClienteDomain.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.csproj.AssemblyReference.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.AssemblyInfoInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.AssemblyInfo.cs
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.csproj.CoreCompileInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ref\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteDomain\obj\Debug\net5.0\ClienteDomain.pdb

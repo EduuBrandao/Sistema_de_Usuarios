@@ -1,0 +1,17 @@
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteApplication.deps.json
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteApplication.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ref\ClienteApplication.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteApplication.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteInfra.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteDomain.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\bin\Debug\net5.0\ClienteInfra.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.csproj.AssemblyReference.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.AssemblyInfoInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.AssemblyInfo.cs
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.csproj.CoreCompileInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.csproj.CopyComplete
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ref\ClienteApplication.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteApplication\obj\Debug\net5.0\ClienteApplication.pdb

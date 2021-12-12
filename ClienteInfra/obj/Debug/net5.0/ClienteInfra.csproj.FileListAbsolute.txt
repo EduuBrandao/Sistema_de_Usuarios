@@ -1,0 +1,14 @@
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ClienteInfra.deps.json
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ClienteInfra.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ref\ClienteInfra.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ClienteInfra.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ClienteDomain.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\bin\Debug\net5.0\ClienteDomain.pdb
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.csproj.AssemblyReference.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.AssemblyInfoInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.AssemblyInfo.cs
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.csproj.CoreCompileInputs.cache
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ref\ClienteInfra.dll
+C:\testes\Cria-o-de-usuario\WebApplication1\ClienteInfra\obj\Debug\net5.0\ClienteInfra.pdb
